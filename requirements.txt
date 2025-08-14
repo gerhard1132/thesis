@@ -1,0 +1,12 @@
+gensim
+numpy
+regex
+scipy
+sentencepiece
+scikit-learn
+spacy
+torch
+transformers
+tqdm
+jsonlines
+nltk
